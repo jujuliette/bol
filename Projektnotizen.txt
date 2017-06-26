@@ -1,0 +1,13 @@
+Griechische Mythologie/Antike (zu klärender Punkt)
+Flexibles Skillsystem
+->Unterteilung in Klassen, aber keine feste Bindung an eine Klasse
+Halbgötter als Helden
+Mehrere Fraktionen zwischen denen der Held entscheiden kann:
+-Larkonia
+-Achaia
+-Elia
+-Arkadia
+-Messinia
+-Korinthia
+-Argolis
+->mit Wechselmöglichkeit durch ein Rufsyste
