@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+<title>BOL</title>
+<script src="phaser.min.js"></script>
+</head>
+<body>
+<script>
+  var game = new Phaser.Game(1000, 600, Phaser.AUTO, 'BOL', { preload: preload, create: create, update: update });
+
+  function preload() {
+    game.load.image('tree', 'tree_3.png');
+  }
+
+  function create() {
+    var image = game.add.image(100, 100, 'tree');
+  }
+
+  function update() {
+  }
+</script>
